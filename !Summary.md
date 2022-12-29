@@ -1,7 +1,7 @@
 # Requisitos
 
 <ol>
-<h3> <li>Saber</li> </h3>
+<h3> <li>Saber coisas básicas como.:</li> </h3>
 
 - Date ypes: number, string, boolean, array & object 
 - Operators: +,&nbsp;-,&nbsp;  *,&nbsp;  /,&nbsp;  ||,&nbsp;  >=,&nbsp;  <=..
