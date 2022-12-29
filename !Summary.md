@@ -1,12 +1,13 @@
 # Requirements 
 
-## 1. What you need to know:
+<ol>
+<li>Know about:</li>
 
 - Date ypes: number, string, boolean, array & object 
 - Operators: +, -, *, /, ||, >=, <=...
 - If, For, While  
 
-## 2. Node on your machine
+<li>Node on your machine</li>
   
 ## 3. Code Runner extension (opcional)
 - To run the code: _Ctrl + Alt + n_ 
