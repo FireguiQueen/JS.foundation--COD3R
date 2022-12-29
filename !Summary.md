@@ -34,10 +34,10 @@ ______________________________________________________________________
 
 ## O que são palavras reservadas?
 
--> são o que formam uma linguagem, cada palavra reservada tem seu propósito e faz alguma coisa </br>
--> são conhecidas como "palavras chaves" ou "keywords" </br>
--> são palavras que não possuem outro propósito além do que foi definido pela linguagem</br>
--> são parte da sintaxe da linguagem, e todas são escritas em mínusculo </br>
+-> São o que formam uma linguagem, cada palavra reservada tem seu propósito e faz alguma coisa </br>
+-> São conhecidas como "palavras chaves" ou "keywords" </br>
+-> São palavras que não possuem outro propósito além do que foi definido pela linguagem</br>
+-> São parte da sintaxe da linguagem, e todas são escritas em mínusculo </br>
 
 >Exemplos de palavras reservadas: 
 >function
