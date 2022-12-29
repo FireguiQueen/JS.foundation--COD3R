@@ -14,7 +14,7 @@
 
 <h3> <li> Code Runner extension (opcional - recommendad) </li> </h3>
 
->To run the code: _Ctrl + Alt + n_ 
+>To run the code: _Ctrl + Alt + n_ </br>
 >To stop running the code: _Ctrl + Alt + m_
 
 
