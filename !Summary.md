@@ -4,7 +4,7 @@
 <h3> <li>Know about:</li> </h3>
 
 - Date ypes: number, string, boolean, array & object 
-- Operators: +, -, *, /, ||, >=, <=...
+- Operators: +,  -,  *,  /,  ||,  >=,  <=..
 - If, For, While  
 
 
