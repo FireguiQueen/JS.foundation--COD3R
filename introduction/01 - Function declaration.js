@@ -47,7 +47,7 @@ function SayHiTo(function_number, name){
     console.log('--------------------------------------------------')
 
 }
-SayHiTo('02','Fabio')
+SayHiTo('02', 'Fabio')
 
 
 
@@ -109,8 +109,8 @@ ANALOGIA 02:
     Em resumo: O botão não sabe o que ele faz, ele só sabe que deve executar um bloco de códigos específico
 
     ! É por isso que se tentarmos colocar:
-    var botão = BotaoDeLigar()
-   
-    
+    var botão = BotaoDeLigar()  
+    não irá retornar nada, pois o botão não tem ideia do que faz, 
+    ele só serve para dar inicio a uma leitura de um bloco de códigos (tambéo conhecido como corpo da função)
 */
 
