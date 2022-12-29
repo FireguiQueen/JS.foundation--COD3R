@@ -1,18 +1,18 @@
-# Requirements 
+# Requisitos
 
 <ol>
-<h3> <li>Know about:</li> </h3>
+<h3> <li>Saber</li> </h3>
 
 - Date ypes: number, string, boolean, array & object 
 - Operators: +,&nbsp;-,&nbsp;  *,&nbsp;  /,&nbsp;  ||,&nbsp;  >=,&nbsp;  <=..
 - If, For, While  
 
 
-<h3> <li>Having Node.js in your machine (opcional - recommendad) </li> </h3>
+<h3> <li>Ter o Node.js no pc (opcional/recomendado) </li> </h3>
 
 </br>
 
-<h3> <li> Code Runner extension (opcional - recommendad) </li> </h3>
+<h3> <li> Usar a extensão "coder runner" (opcional/recomendado) </li> </h3>
 
 >To run the code: _Ctrl + Alt + n_ </br>
 >To stop running the code: _Ctrl + Alt + m_
