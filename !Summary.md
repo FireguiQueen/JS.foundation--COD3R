@@ -2,7 +2,6 @@
 
 <ol>
 <h3> <li>Know about:</li> </h3>
-
 - Date ypes: number, string, boolean, array & object 
 - Operators: +, -, *, /, ||, >=, <=...
 - If, For, While  
