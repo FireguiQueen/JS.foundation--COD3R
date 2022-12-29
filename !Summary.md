@@ -8,9 +8,9 @@
 - If, For, While  
 
 
-<h3> <li>Having Node.js in your machine</li> </h3>
+<h3> <li>Having Node.js in your machine (opcional - recommendad) </li> </h3>
   
-## 3. Code Runner extension (opcional)
+<h3> <li> Code Runner extension (opcional - recommendad) </li> </h3>
 - To run the code: _Ctrl + Alt + n_ 
 - To stop running the code: _Ctrl + Alt + m_
 
