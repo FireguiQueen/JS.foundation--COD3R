@@ -10,6 +10,8 @@
 
 <h3> <li>Ter o Node.js no pc (opcional/recomendado) </li> </h3>
 
+>Você pode o instalar <a href="https://nodejs.org/en/">aqui</a>
+
 </br>
 
 <h3> <li> Usar a extensão "coder runner" (opcional/recomendado) </li> </h3>
