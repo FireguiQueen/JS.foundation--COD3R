@@ -2,11 +2,13 @@
 
 <ol>
 <h3> <li>Know about:</li> </h3>
+
 - Date ypes: number, string, boolean, array & object 
 - Operators: +, -, *, /, ||, >=, <=...
 - If, For, While  
 
-<li>Node on your machine</li>
+
+<h3> <li>Having Node.js in your machine</li> </h3>
   
 ## 3. Code Runner extension (opcional)
 - To run the code: _Ctrl + Alt + n_ 
