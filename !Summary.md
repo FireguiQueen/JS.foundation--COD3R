@@ -7,6 +7,8 @@
 - Operators: +,&nbsp;-,&nbsp;  *,&nbsp;  /,&nbsp;  ||,&nbsp;  >=,&nbsp;  <=..
 - If, For, While  
 
+</br>
+
 
 <h3> <li>Ter o Node.js no pc (opcional/recomendado) </li> </h3>
 
