@@ -28,7 +28,7 @@ ______________________________________________________________________
 
 # O que são functions? 
 - Uma function é como se fosse um pequeno programa. Um sub-programa dentro do seu programa
-- É um bloco de código que executa tarefas ou calcula valores
+- Uma function executa um bloco de código(s), que pode fazer tarefas ou calcular valores
 - É composta por uma sequência de instruções chamada corpo da função
 
 
