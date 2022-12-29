@@ -31,9 +31,9 @@ ______________________________________________________________________
 - Uma function executa um bloco de código(s), que pode fazer tarefas ou calcular valores
 - É composta por uma sequência de instruções chamada corpo da função
 
+</br>
 
 ## O que são palavras reservadas?
-
 -> São o que formam uma linguagem, cada palavra reservada tem seu propósito e faz alguma coisa </br>
 -> São conhecidas como "palavras chaves" ou "keywords" </br>
 -> São palavras que não possuem outro propósito além do que foi definido pela linguagem</br>
