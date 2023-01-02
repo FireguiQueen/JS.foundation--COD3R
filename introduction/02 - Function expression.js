@@ -37,8 +37,7 @@ var SameSum = sum()
 console.log(SameSum) 
 
 
-
-
+// Exercício 01 - Cartão de identidade
 var pessoa = (function (name, idade, peso, altura, sexo){
     return` 
     Dados pessoais.:
@@ -46,7 +45,14 @@ var pessoa = (function (name, idade, peso, altura, sexo){
     Idade ${idade}
     Peso: ${peso}kg
     Altura: ${altura}cm
-    Sexo: ${sexo}
     `
 })
 console.log(pessoa('Flora', 17, 61, 173, 'fêmea'))
+
+
+
+
+var oi = 'pppppp ppp pp'
+console.log(oi.replaceAll(' ,p', '').length)
+
+
