@@ -15,6 +15,7 @@
 -> É uma função anônima que entra em uma variável 
 -> Significa que podemos atribuir uma função a uma variável
 -> Para invocar/chamar esta função é igual chamar uma function normal, porém você usa o nome da variável
+-> Não tente chamar a função pelo seu nome, e sim pelo nome da variável está recebendo ela
 */ 
 var sum = (function(){
     return 5 + 5 ;
@@ -47,15 +48,15 @@ var pessoa = (function (name, idade, peso, altura, sexo){
     Idade ${idade}
     Peso: ${peso}kg
     Altura: ${altura}cm
+    Sexo: 
     `
 })
-console.log(pessoa('Flora', 17, 61, 173, 'fêmea'))
+console.log(pessoa('Flora', 17, 61, 173, 'feminino'))
 
 
 
 
 const name = function(nome){
-    console.log('Quantidade de letras do nome: ' + nome.replaceAll(' ', '').length);
-
+    console.log('Quantidade de letras:' + nome.replaceAll(' ', '').length)
 }
-name('Guilherme Pires Gonçalves')
+name('Guilherme')
