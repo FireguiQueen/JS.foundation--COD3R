@@ -1,8 +1,8 @@
 // --> Anonymous function
 /*
+-> Pode ser traduzida como "função anônima"
 -> É uma função normal, porém ela não recebe um nome. 
 -> Muito utilizada quando fazemos uma function expression 
--> Pode ser traduzida como "função anônima"
 -> Para fazer uma é bem simples, basta fazer uma function sem nome e colocar ela entre parêntesis
 */
 (function(){
@@ -23,7 +23,7 @@ sum()
 // Resultado: NADA
 /*
 > Neste momento estamos dizendo que a variável "sum" irá GRAVAR o resultado de 5 + 5
-> Mas em nenhum momento acima pedimos para ela nos mostrar esta variável
+> Mas em nenhum momento acima pedimos para ela nos mostrar o resultado do cálculo
 > Apenas mandamos a função ser executada: "sum()"
 > Para termos o resultado desta função, basta pedir que a função seja escrita no console
 > console.log(sum())
@@ -35,6 +35,8 @@ console.log(sum())
 // sendo assim você pode fazer outra variável receber a função que está na variável "sum"
 var SameSum = sum()
 console.log(SameSum) 
+
+
 
 
 // Exercício 01 - Cartão de identidade
@@ -52,7 +54,8 @@ console.log(pessoa('Flora', 17, 61, 173, 'fêmea'))
 
 
 
-var oi = 'pppppp ppp pp'
-console.log(oi.replaceAll(' ,p', '').length)
+const name = function(nome){
+    console.log('Quantidade de letras do nome: ' + nome.replaceAll(' ', '').length);
 
-
+}
+name('Guilherme Pires Gonçalves')
