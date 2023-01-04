@@ -51,6 +51,10 @@ ______________________________________________________________________
 - Pode ser atribuida a uma variável, e para invocá-la utiliza-se do nome da variável
 - Pode ser invocada sem uma variável, mas será necessário utilizar dos parênteses
 
+```js 
+console.log
+```
+
 
 
 
