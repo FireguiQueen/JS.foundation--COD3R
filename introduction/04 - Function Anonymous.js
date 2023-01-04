@@ -25,3 +25,33 @@
 
 // 03:
 ( oi => {console.log(oi); console.log(oi)}) ('Bom dia');
+
+
+
+
+function pessoa(nome){
+    console.log(`Olá, ${nome}!`)
+}
+pessoa('Otavio');
+
+
+// Anonymous function (função anônima)
+(function(nome){
+    console.log(`Olá, ${nome}!`)
+}) ('Paulo');
+
+
+// Function expression  
+var pessoa = function(nome){
+    console.log(`Olá, ${nome}`)
+}
+pessoa('Flora')
+
+
+// Function expression + arrow 
+var pessoa = nome => console.log(`Olá, ${nome}`) //caso haja mais de um parâmetro os "()" serão necessários
+pessoa('Duds');
+
+
+// Function arrow totalmente anônima 
+(nome => console.log(`Olá, ${nome}`)) ('Didi');
