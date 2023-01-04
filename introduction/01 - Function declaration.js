@@ -38,12 +38,15 @@ function Greeting(function_number){
 Greeting('01');
 
 
+
+
 function SayHiTo(function_number, name){
     console.log(`Função ${function_number} - Olá, ${name}!`)
     console.log('--------------------------------------------------')
 
 }
 SayHiTo('02', 'Fabio')
+
 
 
 
@@ -56,11 +59,9 @@ console.log(GreetingTo('03'))
 
  
 // --> Diferença entre console.log e return 
-
 //> Quando criamos uma function sem a função "return", tudo colocado dentro desta function não será salvo nela
 //> Sem o "return" a function irá fazer tudo o que foi pedido, porém ela não irá salvar o código na função 
 
-// Exemplo:
 function palavra(){
     console.log('oi') 
 }
@@ -77,10 +78,7 @@ Por que no console será "undefined" se eu tentar chamar a function utilizando o
 > É por isso que "console.log(palavra()) o resultado é "undefined", uma function sem return apenas roda o bloco de código colocado
   E não o grava.
 
-
-
 ---> UMA FUNCTION SEM "RETURN", COMO FUNCIONA?
-
 ANALOGIA 01: 
     >Você possui um rôbo 
     >Este rôbo é programado para dar comida ao seu cão quando você dizer a palavra "cachorro"
@@ -90,7 +88,6 @@ ANALOGIA 01:
     Mas ele não sabe que este bloco de código é referente a palavra "cachorro"
     A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos
     E neste bloco de códigos foi desenvolvido para ele ser mexer, pegar a comida e entre outras coisas
-
 
 ANALOGIA 02: 
     >Você possui um computador
@@ -108,5 +105,8 @@ ANALOGIA 02:
     não irá retornar nada, pois o botão não tem ideia do que faz, 
     ele só serve para dar inicio a uma leitura de um bloco de códigos (também conhecido como corpo da função)
 */
+
+
+
 
 
