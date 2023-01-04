@@ -44,6 +44,7 @@ ______________________________________________________________________
  > Exemplos de palavras reservadas: </br>
  > function, var, const, return, if, else, console.log..
 
+ </br>
 
 ## Função anônima
 - É uma função normal, porém não recebe nome 
