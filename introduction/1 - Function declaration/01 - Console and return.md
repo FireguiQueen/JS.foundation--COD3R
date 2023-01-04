@@ -24,13 +24,14 @@ ___________________________________________________________________________
 
 ## UMA FUNCTION SEM "RETURN", COMO FUNCIONA?
 ### ANALOGIA 01 
-    Você possui um rôbo .
+    Você possui um rôbo.
     Este rôbo é programado para dar comida ao seu cão quando você dizer a palavra "cachorro"..
     Se você perguntar ao seu rôbo o que a palavra "cachorro" faz, ele não vai saber responder você
     Mas ele irá saber o que DEVE FAZER quando você dizer "cachorro"
     Isto ocorre pois ele executa um bloco de códigos após a palavra "cachorro" ser dita
     Mas ele não sabe que este bloco de código faz e que é referente a palavra "cachorro"
-    A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos, e neste bloco de códigos foi desenvolvido para ele ser mexer, pegar a comida e entre outras coisas para a comida chegar até o cachorro.
+    A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos, 
+    e neste bloco de códigos foi desenvolvido para ele ser mexer, pegar a comida e entre outras coisas para a comida chegar até o cachorro.
 
 ### ANALOGIA 02 
     Você possui um computador
