@@ -18,6 +18,8 @@ function PartesDoDia(){         // Abrimento & Nome da função
 PartesDoDia()                   // Invocando a função 
 ```
 
+_________________________________________________________________
+
 ## O que são palavras reservadas?
 <ul type=square>
 <li>é o que forma uma linguagem, cada palavra reservada tem seu propósito e faz alguma coisa</li>
