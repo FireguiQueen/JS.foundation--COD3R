@@ -39,8 +39,8 @@ ______________________________________________________________________
 - São palavras que não possuem outro propósito além do que foi definido pela linguagem</br>
 - São parte da sintaxe da linguagem, e todas são escritas em mínusculo </br>
 
-> Exemplos de palavras reservadas: </br>
-> function, var, const, return, if, else, console.log..
+ > Exemplos de palavras reservadas: </br>
+ > function, var, const, return, if, else, console.log..
 
 
 ## Função anônima
