@@ -18,6 +18,8 @@ function PartesDoDia(){         // Abrimento & Nome da função
 PartesDoDia()                   // Invocando a função 
 ```
 
+</br>
+
 _________________________________________________________________
 
 ## O que são palavras reservadas?
