@@ -51,8 +51,12 @@ ______________________________________________________________________
 - Pode ser atribuida a uma variável, e para invocá-la utiliza-se do nome da variável
 - Pode ser invocada sem uma variável, mas será necessário utilizar dos parênteses
 
+#### Invocando uma função anônima
 ```js 
-console.log
+// O primeiro parêntesis da linha abaixo será necessário para invocar a função anônima
+(function(){ 
+    console.log('Olá')
+}) () // Este parêntesis a esquerda está invocando a função.
 ```
 
 
