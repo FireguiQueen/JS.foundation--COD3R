@@ -50,7 +50,7 @@ ______________________________________________________________________
 - É uma função normal, porém não recebe nome 
 - Pode ser atribuida a uma variável, e para invocá-la utiliza-se do nome da variável
 - Pode ser invocada sem uma variável, mas será necessário utilizar dos parênteses
-- Certifique-se de sempre usar ";" em seus códigos, pois caso o código acima da função anônima não possuir ";", você terá erros.
+- Caso o código acima da função anônima não possuir ";" , você terá erros 
 
 #### Invocando uma função anônima
 ```js 
