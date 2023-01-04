@@ -20,6 +20,7 @@ Assim que você chamou a function usando "palavra()", ela colocou "oi" no consol
 
 > É por isso que "console.log(palavra()) o resultado é "undefined", uma function sem return apenas roda o bloco de código colocado e não retornada NADA.
 
+</br>
 ___________________________________________________________________________
 
 ## UMA FUNCTION SEM "RETURN", COMO FUNCIONA?
