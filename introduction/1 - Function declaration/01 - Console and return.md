@@ -31,8 +31,8 @@ ___________________________________________________________________________
     Isto ocorre pois ele executa um bloco de códigos após a palavra "cachorro" ser dita
     Mas ele não sabe que este bloco de código faz e que é referente a palavra "cachorro"
     
-    A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos, 
-    e neste bloco de códigos é dito para ele ser mexer, 
+    A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos, e neste bloco de códigos 
+    é dito para ele ser mexer, 
     pegar a comida e entre outras coisas para a comida chegar até o cachorro.
 
 ### ANALOGIA 02 
