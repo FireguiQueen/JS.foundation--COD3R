@@ -112,3 +112,4 @@ ANALOGIA 02:
     ele só serve para dar inicio a uma leitura de um bloco de códigos (também conhecido como corpo da função)
 */
 
+
