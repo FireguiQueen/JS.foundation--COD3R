@@ -31,7 +31,7 @@ PartesDoDia()                   // Invocando a função
 > return        </br>
 > if            </br>
 > else          </br>
-> console.log.. </br>
+> console.log </br>
 
 
 
