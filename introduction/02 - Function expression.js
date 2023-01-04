@@ -59,9 +59,9 @@ console.log(pessoa('Flora', 17, 61, 173, 'feminino'))
 const name = function(nome){
     console.log('Quantidade de letras: ' + nome.replaceAll(' ', '').length)
 }
-name('Guilherme')
+name('Guilherme');
 
 
 
-const omg = (oi) => console.log(oi)
+const omg = oi => console.log(oi)
 omg('o')
