@@ -10,9 +10,9 @@ var sum = (function(){
 })
 sum();
 ```
-> Resultado: NADA
+> Resultado: NADA, pois foi apenas dito para a função ser executada
 <ul type="square">
-<li>Neste momento estamos dizendo que a variável "sum" irá GRAVAR o resultado de 5 + 5     </li>
+<li>Neste momento estamos dizendo que a variável "sum" irá GRAVAR uma função               </li>
 <li>Mas em nenhum momento acima pedimos para ela nos mostrar o resultado do cálculo        </li>
 <li>Apenas mandamos a função ser executada: "sum()"                                        </li>
 <li>Para termos o resultado desta função, basta pedir que a função seja escrita no console </li>
