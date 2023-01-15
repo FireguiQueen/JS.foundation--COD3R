@@ -33,10 +33,10 @@ ___________________________________________________________________________
     faz após a palavra ser dita, ele não vai saber responder você
     Mas ele irá saber o que DEVE FAZER quando você dizer "cachorro"
     Isto ocorre pois ele executa um bloco de códigos após a palavra "cachorro" ser dita
-    Mas ele não sabe que este bloco de código faz e que é referente a palavra "cachorro"
+    Mas ele não sabe que este bloco de código faz, ele apenas o executa.
     
     A única coisa que este rôbo sabe é que após a palavra cachorro ser dita, ele deve executar um bloco de códigos, e neste 
-    bloco de códigos é dito para ele ser mexer,  pegar a comida e entre outras coisas para a comida chegar até o cachorro.
+    bloco de códigos é dito para ele ser mexer, pegar a comida e entre outras coisas para a comida chegar até o cachorro.
 
 ### ANALOGIA 02 
     Você possui um computador
