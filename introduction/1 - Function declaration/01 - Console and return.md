@@ -14,7 +14,7 @@ palavra()
 
 </br>
 
-## Por que "undefined" é retornado se tentarmos utilizar o console.log para chamar esta function? 
+## Por que "undefined" é retornado se chamarmos esta function usando console.log? 
 
 Pelo fato de não haver "return" nesta function, assim que ele for chamada todo o código dentro dela será executado.
 Assim que você chamou a function usando "palavra()", ela colocou "oi" no console, pois é isto que você pediu para ela fazer. 
