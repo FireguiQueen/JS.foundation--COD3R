@@ -3,6 +3,7 @@
 - Significa que podemos atribuir uma função a uma variável
 - Para invocar/chamar esta função é igual chamar uma function normal, porém você usa o nome da variável
 - Não tente chamar a função pelo seu nome, e sim pelo nome da variável está recebendo ela
+- É recomendado NÃO dar um nome para a função da function expression 
 
 ```js 
 var sum = (function(){
