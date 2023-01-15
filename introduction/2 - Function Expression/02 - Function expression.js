@@ -1,10 +1,7 @@
-
-
-
 // --> Anonymous function
 (function(){
     console.log('Olá!')
-})      
+}) ();      
 /*
 -> Pode ser traduzida como "função anônima"
 -> É uma função normal, porém ela não recebe um nome. 
@@ -17,6 +14,9 @@
 
 // Em JS uma variável pode assumir qualquer valor, 
 // sendo assim você pode fazer outra variável receber a função que está na variável "sum"
+function sum(){
+    
+}
 var SameSum = sum()
 console.log(SameSum) 
 
@@ -68,3 +68,6 @@ name('Guilherme');
 
 const omg = oi => console.log(oi)
 omg('o')
+
+
+
