@@ -1,16 +1,6 @@
 # Function declaration
 
- 
-## O que são functions
-- É um bloco de código que executa tarefas ou calcula valores
-- Uma function é como se fosse um pequeno programa dentro do seu programa
- 
-## Criando uma function
-- Primeiro você coloca a palavra reservada do Javascript  chamada "function"
-- Após colocar "function" você irá colocar o nome desta função e colocar chaves duplas
-- Tudo dentro da chave é o que a função irá executar
-
-## A function declaration é usada para criar uma função. É composta por três partes:
+## A function declaration é usada para criar uma função e é composta por três partes:
 - O nome da função
 - Parâmetros opcionais que se comportam como variáveis dentro da função. Os parâmetros dizem à função o que fazer com os argumentos que ela forneceu.()
 - O bloco de código a ser executado quando a função é chamada.{}
