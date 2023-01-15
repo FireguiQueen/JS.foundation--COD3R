@@ -29,7 +29,8 @@ ___________________________________________________________________________
 ### ANALOGIA 01
     Você possui um rôbo.
     Este rôbo é programado para dar comida ao seu cão quando você dizer a palavra "cachorro".
-    Se você perguntar ao seu rôbo o que a palavra "cachorro" FAZ, ou seja, quais ações o robô faz após a palavra ser dita, ele não vai saber responder você
+    Se você perguntar ao seu rôbo o que a palavra "cachorro" FAZ, ou seja, quais ações o robô 
+    faz após a palavra ser dita, ele não vai saber responder você
     Mas ele irá saber o que DEVE FAZER quando você dizer "cachorro"
     Isto ocorre pois ele executa um bloco de códigos após a palavra "cachorro" ser dita
     Mas ele não sabe que este bloco de código faz e que é referente a palavra "cachorro"
