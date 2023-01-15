@@ -1,5 +1,5 @@
 # Function declaration
-
+ 
 ## Criando uma function declaration
 - Utilize da palavra reservada "function" e de um nome para a função
 - Ao lado do nome, coloque parêntesis, eles são obrigatórios para este tipo de function
@@ -34,7 +34,22 @@ _________________________________________________________________
 > return        </br>
 > if            </br>
 > else          </br>
-> console.log </br>
+> console.log   </br>
 
+_________________________________________________________________
 
+## O que são parâmetros? 
+Numa function declaration, o parâmetro é colocado dentro dos parêntesis. Os parâmetros são muito parecidos com variáveis e através deles podemos dar dinamismo a uma function, e claro, são de extrema importância para quase tudo.
+
+Veja o exemplo abaixo.: 
+```js
+funtion pessoa(nome){
+    console.log(nome);
+}
+pessoa('Guilherme');
+
+// Resultaldo no console: Guilherme
+```
+O parâmetro desta function se chama "nome", e para transformarmos este parâmetro num valor, basta
+passar o parâmetro quando invocarmos uma variável.
 
