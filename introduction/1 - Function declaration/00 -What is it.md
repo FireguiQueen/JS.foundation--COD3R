@@ -40,7 +40,7 @@ _________________________________________________________________
 _________________________________________________________________
 
 ## O que são parâmetros? 
-Numa function declaration, o parâmetro é colocado dentro dos parêntesis. Os parâmetros são muito parecidos com variáveis e através deles podemos dar dinamismo a uma function, e claro, são de extrema importância para quase tudo.
+Numa function declaration, o parâmetro é colocado dentro dos parêntesis. Os parâmetros são muito parecidos com variáveis e através deles podemos dar dinamismo a uma function. 
 
 Veja o exemplo abaixo.: 
 ```js
@@ -52,5 +52,5 @@ pessoa('Guilherme');
 // Resultaldo no console: Guilherme
 ```
 O parâmetro desta function se chama "nome", e para transformarmos este parâmetro num valor, basta
-passar o parâmetro quando invocarmos uma variável.
+passar o parâmetro quando invocarmos uma função.
 
