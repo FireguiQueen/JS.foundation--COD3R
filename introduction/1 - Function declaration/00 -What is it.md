@@ -9,6 +9,13 @@
 - Primeiro você coloca a palavra reservada do Javascript  chamada "function"
 - Após colocar "function" você irá colocar o nome desta função e colocar chaves duplas
 - Tudo dentro da chave é o que a função irá executar
+
+## A function declaration é usada para criar uma função. É composta por três partes:
+- O nome da função
+- Parâmetros opcionais que se comportam como variáveis dentro da função. Os parâmetros dizem à função o que fazer com os argumentos que ela forneceu.()
+- O bloco de código a ser executado quando a função é chamada.{}
+
+>A maioria das declarações de função inclui uma instrução return. Uma instrução return diz à função para >parar e enviar um valor de volta para onde a função foi chamada.
 ```js
 function PartesDoDia(){         // Abrimento & Nome da função
     console.log('Bom dia!');    // Corpo da função 
