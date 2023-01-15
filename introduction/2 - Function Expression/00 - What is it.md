@@ -19,7 +19,6 @@ var sum = (function(){
 sum();
 // RESULTADO: NADA, pois foi apenas dito para a função retornar quanto é 5 + 5
 // Mas não foi dito onde este resultado deve ser retornado
-
 //> Neste momento estamos dizendo que a variável "sum" irá GRAVAR uma função               
 //> Mas em nenhum momento acima pedimos para ela nos mostrar o resultado do cálculo        
 //> Apenas mandamos a função ser executada: "sum()"                                        
