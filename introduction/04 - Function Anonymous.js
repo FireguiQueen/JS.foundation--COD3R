@@ -55,3 +55,6 @@ pessoa('Duds');
 
 // Function arrow totalmente anônima 
 (nome => console.log(`Olá, ${nome}`)) ('Didi');
+
+
+

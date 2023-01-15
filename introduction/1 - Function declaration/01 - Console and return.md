@@ -1,17 +1,18 @@
 # Diferença entre console.log e return 
-Quando criamos uma function sem a função "return", tudo colocado dentro desta function não será salvo nela
-Sem o "return" a function irá fazer tudo o que foi pedido, porém ela não irá salvar o código na função 
+Quando criamos uma function sem a função "return", tudo colocado dentro desta function não será salvo nela, ou seja, sem o "return" a function irá fazer tudo o que foi pedido, porém ela não irá "salvar" o código na função. 
 
 ```js
 function palavra(){
     console.log('oi') 
+
+    // RESULTADO NO CONSOLE: "oi"  
+     
+    // Se colocarmos: 'console.log(palavra())' para chamar a função, o valor será "undefined"
 }
 palavra() 
 ```
-> RESULTADO NO CONSOLE: "oi"  
-     
-Se colocarmos: 'console.log(palavra())' para chamar a função, o valor será "undefined"
 
+</br>
 
 ## Por que no console será "undefined" se eu tentar chamar a function utilizando o console.log? 
 
