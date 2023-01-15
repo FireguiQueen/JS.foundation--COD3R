@@ -8,14 +8,20 @@
 var sum = (function(){
     return 5 + 5 ;
 })
-sum();
+console.log(sum());
+// RESULTADO: 10
 ```
-> Resultado: NADA, pois foi apenas dito para a função ser executada
-<ul type="square">
-<li>Neste momento estamos dizendo que a variável "sum" irá GRAVAR uma função               </li>
-<li>Mas em nenhum momento acima pedimos para ela nos mostrar o resultado do cálculo        </li>
-<li>Apenas mandamos a função ser executada: "sum()"                                        </li>
-<li>Para termos o resultado desta função, basta pedir que a função seja escrita no console </li>
-</ul>
-console.log(sum())
-// Resultado: 10 
+
+```js 
+var sum = (function(){
+    return 5 + 5 ;
+})
+sum();
+// RESULTADO: NADA, pois foi apenas dito para a função ser executada
+
+//> Neste momento estamos dizendo que a variável "sum" irá GRAVAR uma função               
+//> Mas em nenhum momento acima pedimos para ela nos mostrar o resultado do cálculo        
+//> Apenas mandamos a função ser executada: "sum()"                                        
+//> Para termos o resultado desta função, basta pedir que a função seja escrita no console 
+//> Com o "return", o resultado pode ser retornado em qualquer outro lugar, até numa variável por exemplo.
+```
