@@ -41,7 +41,8 @@ ___________________________________________________________________________
 ### ANALOGIA 02 
     Você possui um computador
     Para ligar este computador, obviamente você precisa apartar o botão do gabinete
-    Perceba que, não é o botão que liga o seu computador, o botão é apenas algo físico que fará seu computador rodar linhas de código para inicializar seu sistema 
+    Perceba que, não é o botão que liga o seu computador, o botão é apenas algo físico que 
+    fará seu computador rodar linhas de código para inicializar seu sistema 
     Se você perguntar ao seu computador o que o botão dele faz, ele não vai saber responder
     Se você perguntar ao botão o que ele faz, ele só vai saber que ele serve para rodar linhas de código
     Estas linhas de código só são rodadas caso o botão seja pressionado 
