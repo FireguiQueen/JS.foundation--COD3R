@@ -1,6 +1,6 @@
 # Function declaration
 
-## A function declaration é usada para criar uma função e é composta por três partes:
+## Criando uma function declaration
 - O nome da função
 - Parâmetros opcionais que se comportam como variáveis dentro da função. Os parâmetros dizem à função o que fazer com os argumentos que ela forneceu ().
 - O bloco de código a ser executado quando a função é chamada {}.
