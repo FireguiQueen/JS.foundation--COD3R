@@ -5,7 +5,16 @@ Uma function expression é muito semelhente
 - Para invocar/chamar esta função é igual chamar uma function normal, porém você usa o nome da variável
 - Não tente chamar a função pelo seu nome, e sim pelo nome da variável está recebendo ela
 
+</br>
+
+```js
+// Function expression | arrow
+const SayHello = name => console.log(`Olá, ${name}`)
+```
+
+
 ```js 
+// Function expression | anonymous
 var sum = (function(){
     return 5 + 5 ;
 })
