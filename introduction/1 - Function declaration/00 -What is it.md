@@ -39,18 +39,24 @@ _________________________________________________________________
 
 _________________________________________________________________
 
-## O que são parâmetros? 
-Numa function declaration, o parâmetro é colocado dentro dos parêntesis. Os parâmetros são muito parecidos com variáveis e através deles podemos dar dinamismo a uma function. 
+## O que são parâmetros e argumentos? 
+Os parâmetros são muito parecidos com variáveis, e através deles podemos dar dinamismo a uma function. O parâmetro é colocado dentro dos parêntesis de uma função. 
 
-Veja o exemplo abaixo.: 
+Enquanto os argumentos são os "valores" deste parâmetro, é como se o parâmetro fosse o identificador de uma variável, e o argumento sendo o valor desta variável. 
+
+</br>
+
+### Veja o exemplo abaixo.: 
+
 ```js
-funtion pessoa(nome){
+funtion pessoa(nome){  // "nome" é o parâmetro
     console.log(nome);
 }
-pessoa('Guilherme');
+pessoa('Guilherme');   // Argumento é o que irá ir para o valor do parâmetro
 
 // Resultaldo no console: Guilherme
 ```
-O parâmetro desta function se chama "nome", e para transformarmos este parâmetro num valor, basta
-passar o parâmetro quando invocarmos uma função.
+
+O parâmetro desta function se chama "nome". Para darmos um valor a este parâmetro, basta
+passar um argumento quando invocarmos uma função.
 
