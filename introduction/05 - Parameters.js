@@ -12,8 +12,8 @@ pessoa('paulo');
 
 
 
-// O que acontece se colocar mais argumentos do que parâmetros
 /*
+    O QUE ACONTECE SE COLOCAR MAIS ARGUMENTOS DO QUE PARÂMETROS:
     Não irá retornar nenhum erro, e o JS irá ignorar esses argumentos extras que foram dados 
 */
 
@@ -24,3 +24,15 @@ function carro(nome, cor){
     `
 }
 console.log(carro('Tesla X', 'Vermelho', '44km rodados'))
+
+
+
+
+
+/*
+    O QUE ACONTECE SE COLOCAR MENOS ARGUMENTOS DO QUE PARÂMETROS:
+    Não irá retornar nenhum erro, e o JS irá dar "undefined" aos parâmetros que não foram definidos 
+*/
+
+
+
