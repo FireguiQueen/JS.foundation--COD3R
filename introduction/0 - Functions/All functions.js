@@ -19,13 +19,14 @@
 }) (); // <<--- Com este parênteses estamos invocando a função
 
 
-// 02:
-((cor) => console.log(cor)) ('verde'); // <<--- Com este parênteses estamos invocando a função
+// 02: (o parâmetro cor não precisa de parêntesis pois é somente um único parâmetro)
+(cor => console.log(cor)) 
+('verde'); // <<--- Com este parênteses estamos invocando a função
 
 
 // 03:
 ( oi => {console.log(oi); console.log(oi)}) ('Bom dia');
-
+        // As chaves são necessárias pois a função nos retorna mais de um valor 
 
 
 
