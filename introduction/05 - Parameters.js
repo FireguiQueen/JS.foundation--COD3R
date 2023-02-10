@@ -10,11 +10,17 @@ pessoa('paulo');
 
 
 
+
+
 // O que acontece se colocar mais argumentos do que parâmetros
+/*
+    Não irá retornar nenhum erro, e o JS irá ignorar esses argumentos extras que foram dados 
+*/
+
 function carro(nome, cor){
     return `
     Nome: ${nome}
     Cor: ${cor}
     `
 }
-console.log(carro('Tesla X', 'Vermelho'))
+console.log(carro('Tesla X', 'Vermelho', '44km rodados'))
