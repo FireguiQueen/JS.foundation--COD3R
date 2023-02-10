@@ -23,7 +23,8 @@ function carro(nome, cor){
     Cor: ${cor}
     `
 }
-console.log(carro('Tesla X', 'Vermelho', '44km rodados'))
+console.log(carro('Tesla X', 'Vermelho', '44km rodados')) // Não há parâmetro para o último arg
+
 
 
 
@@ -33,6 +34,7 @@ console.log(carro('Tesla X', 'Vermelho', '44km rodados'))
     O QUE ACONTECE SE COLOCAR MENOS ARGUMENTOS DO QUE PARÂMETROS:
     Não irá retornar nenhum erro, e o JS irá dar "undefined" aos parâmetros que não foram definidos 
 */
+function 
 
 
 
