@@ -34,7 +34,10 @@ console.log(carro('Tesla X', 'Vermelho', '44km rodados')) // Não há parâmetro
     O QUE ACONTECE SE COLOCAR MENOS ARGUMENTOS DO QUE PARÂMETROS:
     Não irá retornar nenhum erro, e o JS irá dar "undefined" aos parâmetros que não foram definidos 
 */
-function 
+function somar(x, y){
+    return `A soma entre ${x} e ${y} é.: ${x + y }`
+}
 
+console.log(somar(4, ))
 
 
