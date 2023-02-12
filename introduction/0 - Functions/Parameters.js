@@ -10,8 +10,6 @@ pessoa('paulo');
 
 
 
-
-
 /*
     O QUE ACONTECE SE COLOCAR MAIS ARGUMENTOS DO QUE PARÂMETROS:
     Não irá retornar nenhum erro, e o JS irá ignorar esses argumentos extras que foram dados 
