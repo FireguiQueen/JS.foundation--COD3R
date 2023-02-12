@@ -1,28 +1,28 @@
+/*
+    Uma function expression é uma forma de definir uma função em JavaScript. 
+    A diferença entre uma function expression e uma function declaration é que uma function 
+    expression é atribuída a uma variável, enquanto uma function declaration é definida como 
+    um identificador independente.
+*/
 
 
 
 // Em JS, uma variável pode assumir qualquer valor, 
 // sendo assim você pode fazer outra variável receber a função que está na variável "sum"
-function sum(){
-    
+function sum(n1,n2){
+   console.log(n1 + n2) 
 }
-var SameSum = sum()
-console.log(SameSum) 
+var SameSum = sum
+SameSum(4, 5) 
 
 
-//>> Caso não seja digitado o parâmetro que uma função utilizada quando chamamos esta função, 
-//   será retornado "undefined", por exemplo:
 
-function pessoa_1(nome){
-    console.log(nome)
-}
-pessoa_1();
-// Resultado: UNDEFINED
-
-//>> Caso você queira que seja mostrado outro valor quando não definimos o parâmetro, 
-//   você pode fazer isso quando a função é criada. Na linha abaixo é feito exatamente isto, estamos
-//   dizendo que o parâmetro "nome" é igual a string "nome não informado", mas assim que passarmos
-//   este parâmetro ao invocar a função, esta string será substítuida pelo o que você colocou
+/*  
+    Caso você queira que seja mostrado outro valor quando não definimos o parâmetro, 
+    você pode fazer isso quando a função é criada. Na linha abaixo é feito exatamente isto, estamos
+    dizendo que o parâmetro "nome" é igual a string "nome não informado", mas assim que passarmos
+    este parâmetro ao invocar a função, esta string será substítuida pelo o que você colocou
+*/
 
 function pessoa(nome = 'nome não informado'){
     console.log(nome)
@@ -34,32 +34,6 @@ function pessoa(nome = 'nome não informado'){
 
 
 
-
-// Exercício 01 - Cartão de identidade
-var pessoa = (function(name, idade, peso, altura, sexo) {
-    return` 
-    Dados pessoais.:
-    Nome: ${name}
-    Idade ${idade}
-    Peso: ${peso}kg
-    Altura: ${altura}cm
-    Sexo: ${sexo} 
-    `
-})
-console.log(pessoa('Flora', 17, 61, 173, 'feminino'))
-
-
-
-
-const name = function(nome){
-    console.log('Quantidade de letras: ' + nome.replaceAll(' ', '').length)
-}
-name('Guilherme');
-
-
-
-const omg = oi => console.log(oi)
-omg('o')
 
 
 
