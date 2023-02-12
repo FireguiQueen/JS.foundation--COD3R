@@ -1,18 +1,7 @@
-// --> Anonymous function
-(function(){
-    console.log('Olá!')
-}) ();      
-/*
--> Pode ser traduzida como "função anônima"
--> É uma função normal, porém ela não recebe um nome. 
--> Muito utilizada quando fazemos uma function expression 
-*/
 
 
 
-
-
-// Em JS uma variável pode assumir qualquer valor, 
+// Em JS, uma variável pode assumir qualquer valor, 
 // sendo assim você pode fazer outra variável receber a função que está na variável "sum"
 function sum(){
     
@@ -39,6 +28,9 @@ function pessoa(nome = 'nome não informado'){
     console.log(nome)
 } pessoa();
 // Resultado: NOME NÃO INFORMADO
+
+
+
 
 
 
