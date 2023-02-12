@@ -28,7 +28,7 @@ ______________________________________________________________________
 
 # O que são functions? 
 - Uma function é como se fosse um pequeno programa. Um sub-programa dentro do seu programa
-- Uma function executa um bloco de código(s), que pode fazer tarefas ou calcular valores
+- Uma function executa um bloco de código, que pode fazer tarefas, calcular valores e retornar valores
 - É composta por uma sequência de instruções chamada corpo da função
 
 </br>
@@ -42,7 +42,7 @@ ______________________________________________________________________
 </br>
 
  > Exemplos de palavras reservadas: </br>
- > function, var, const, return, if, else, console.log..
+ > function, var, const, return, if, else, console, new..
 
  </br>
 
@@ -57,12 +57,20 @@ ______________________________________________________________________
 // O primeiro parêntesis da linha abaixo será necessário para invocar a função anônima
 (function(){ 
     console.log('Olá')
-}) () // Este parêntesis a esquerda está invocando a função.
+}) (); // Este parêntesis a esquerda está invocando a função.
 ```
 
+```js
+// Caso você possua outra linha de código acima de sua função totalmente anônima, será obrigatório colocar o ponto e vírgula (;)
 
+console.log('Olá'); // Este ponto e vírgula é OBRIGATÓRIO caso deseja que a função abaixo funcione
 
-
+(function(){
+    return `
+    Frase do dia.:
+    A escola é o total oposto dos processos de seu gerenciador de tarefas, pois eles são úteis e necessários. `   
+});
+```
 
 
 

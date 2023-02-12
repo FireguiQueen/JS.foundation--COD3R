@@ -17,6 +17,7 @@ SameSum(4, 5)
 
 
 
+
 /*  
     Caso você queira que seja mostrado outro valor quando não definimos o parâmetro, 
     você pode fazer isso quando a função é criada. Na linha abaixo é feito exatamente isto, estamos
