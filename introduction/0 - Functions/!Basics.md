@@ -30,7 +30,7 @@ Enquanto os argumentos são os "valores" deste parâmetro, é como se o parâmet
 funtion pessoa(nome){  // "nome" é o parâmetro
     console.log(nome);
 }
-pessoa('Guilherme');   // Argumento é o que irá ir para o valor do parâmetro
+pessoa('Guilherme');   // 'Guilherme' é o argumento que será colocado no parâmetro "nome"
 
 // Resultaldo no console: Guilherme
 ```
