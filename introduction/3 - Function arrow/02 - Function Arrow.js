@@ -36,7 +36,7 @@ console.log(carteira3('Amarela'))
 
 
 // SIMPLIFICANDO 2:
-// CASO VOCÊ QUEIRA RETONRAR APENAS UM VALOR, AS CHAVES "{}" NÃO SÃO NECESSÁRIAS
+// CASO VOCÊ QUEIRA RETONRAR APENAS UM VALOR, AS CHAVES "{}" E A KEYWORD "RETURN" NÃO SÃO NECESSÁRIAS
 let carteira4 = cor => cor 
 console.log(carteira4('verde'))
 
