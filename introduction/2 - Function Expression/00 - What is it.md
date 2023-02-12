@@ -1,11 +1,17 @@
 # Function expression 
-Uma function expression é muito semelhente 
 - É uma função que entra em uma variável 
-- Significa que podemos atribuir uma função a uma variável
-- Para invocar/chamar esta função é igual chamar uma function normal, porém você usa o nome da variável
-- Não tente chamar a função pelo seu nome, e sim pelo nome da variável está recebendo ela
+- Para invocar/chamar esta função, você irá utilizar o nome da variável
 
 </br>
+
+```js
+// Function expression | declaration
+const pessoa = function person(){
+    console.log('Pablo')
+};
+pessoa()
+```
+
 
 ```js
 // Function expression | arrow
