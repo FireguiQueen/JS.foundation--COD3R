@@ -18,13 +18,12 @@ SameSum(4, 5)
 
 
 
+const function1 = function(){
+    console.log('Olá')
+}
+const sameFunction = function1
+sameFunction()
 
 
 
 
-
-
-
-
-
-console.log('' > 'ovo')
