@@ -50,9 +50,3 @@ let carteira6 = (saldo, cor) => {
     console.log(`Saldo: R$${saldo}`); 
     console.log(`Cor: ${cor}`);}
 carteira6(52535, 'verde');
-
-
-
-
-
-
