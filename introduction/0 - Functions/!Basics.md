@@ -22,7 +22,7 @@ _________________________________________________________________
 ## O que são parâmetros e argumentos? 
 Os parâmetros são muito parecidos com variáveis, e através deles podemos dar dinamismo a uma function. O parâmetro é colocado dentro dos parêntesis de uma função. 
 
-Enquanto os argumentos são os "valores" deste parâmetro, é como se o parâmetro fosse o identificador de uma variável, e o argumento sendo o valor desta variável. 
+Enquanto os argumentos são os "valores" deste parâmetro, eles serão passados quando invocarmos a função. É como se o parâmetro fosse o identificador de uma variável, e o argumento sendo o valor desta variável. 
 
 </br>
 
