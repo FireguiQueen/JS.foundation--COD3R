@@ -23,7 +23,3 @@ const function1 = function(){
 }
 const sameFunction = function1
 sameFunction()
-
-
-
-
