@@ -17,6 +17,8 @@
 
 
 
+
+
 //                          INVOCANDO UMA FUNÇÃO ARROW E ANÔNIMA
 
 // EXEMPLO 01: (se não for passar nenhum parâmetro os parentesis são obrigatórios)
@@ -25,7 +27,7 @@
 }) (); // <<--- Com este parênteses estamos invocando a função
 
 
-// EXEMPLO 02: (não precisa colocar paretensis se houver apenas um parâmetro para a função)
+// EXEMPLO 02: (não precisa colocar parentesis se houver apenas um parâmetro para a função)
 (cor => console.log(cor)) 
 ('verde'); // <<--- Com este parênteses estamos invocando a função
 
@@ -36,6 +38,9 @@
 
 
 
+
+
+        
 
 //                                          Function declaration        
 
