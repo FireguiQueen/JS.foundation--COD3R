@@ -36,6 +36,6 @@ function somar(x, y){
     return `A soma entre ${x} e ${y} é.: ${x + y }`
 }
 
-console.log(somar(4, ))
+console.log(somar(4, ));
 
-
+((y,x) => console.log(y + x)) (1,2);

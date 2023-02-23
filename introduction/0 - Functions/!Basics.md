@@ -32,9 +32,9 @@ Enquanto os argumentos são os "valores" deste parâmetro, eles serão passados 
 funtion pessoa(nome){  // "nome" é o parâmetro
     console.log(nome);
 }
-pessoa('Guilherme');   // 'Guilherme' é o argumento que será colocado no parâmetro "nome"
+pessoa('Maria');   // 'Maria' é o argumento que será colocado no parâmetro "nome"
 
-// Resultaldo no console: Guilherme
+// Resultaldo no console: Maria
 ```
 
 O parâmetro desta function se chama "nome". Para darmos um valor a este parâmetro, basta
